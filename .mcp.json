@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "relaydesk": {
+      "type": "http",
+      "url": "https://relay-desk-mjq6.vercel.app/mcp",
+      "note": "Official RelayDesk hosted MCP server. Uses OAuth in the browser. RelayDesk connects Grok Build to computers, servers, and VMs explicitly paired to the signed-in RelayDesk account so users can work with local files, run approved commands, inspect processes, troubleshoot, and search configured workspaces within RelayDesk safety boundaries."
+    }
+  }
+}

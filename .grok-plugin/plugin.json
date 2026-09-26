@@ -1,0 +1,18 @@
+{
+  "name": "relaydesk",
+  "version": "1.0.0",
+  "description": "Connect Grok Build to computers, servers, and VMs you own or administer through RelayDesk's hosted OAuth MCP service.",
+  "author": {
+    "name": "Mave Studios LLP",
+    "url": "https://relay-desk-mjq6.vercel.app"
+  },
+  "repository": "https://github.com/mave-studios/relaydesk-grok-plugin",
+  "homepage": "https://relay-desk-mjq6.vercel.app",
+  "license": "Proprietary",
+  "keywords": [
+    "relaydesk",
+    "relay desk",
+    "relaydesk mcp",
+    "relaydesk remote computer"
+  ]
+}
