@@ -1,5 +1,7 @@
 # RelayDesk for Grok
 
+[![M8ven Verified](https://m8ven.ai/badge/mcp/mave-studios-relaydesk-grok-plugin-1rmtkh?variant=verified)](https://m8ven.ai/mcp/mave-studios/relaydesk-grok-plugin?s=readme)
+
 RelayDesk connects Grok Build to computers, servers, and VMs that a user owns or administers and has explicitly paired with their RelayDesk account.
 
 ## Hosted MCP
